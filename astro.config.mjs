@@ -4,4 +4,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     site: 'https://ibrahimizh.github.io',
   base: '/OIAC',
+  output: "static"
 });
